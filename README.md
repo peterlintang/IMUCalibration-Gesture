@@ -64,3 +64,6 @@ load('caldata.mat')
 ##### 算法视频
 [![视频]( https://i1.hdslb.com/bfs/archive/9d5e7893c77612498a023d58005a2ee6b03560ee.jpg)](https://www.bilibili.com/video/av78142069/)
 
+##############we add 添加url
+https://blog.csdn.net/shenshikexmu/article/details/70143455
+https://blog.csdn.net/shenshikexmu/article/details/80013444
